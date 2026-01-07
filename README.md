@@ -47,8 +47,9 @@
 
 <h4>Art & Content Tools</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=blender,3dsmax,photoshop,illustrator" />
 </p>
+
 
 <h4>Version Control</h4>
 <p>
