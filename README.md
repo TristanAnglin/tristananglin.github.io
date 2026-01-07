@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-📫 <b>Email:</b> <a href="mailto:tmanglin00@gmail.com">tmanglin00@gmail.com</a>
+<b>Email:</b> <a href="mailto:tmanglin00@gmail.com">tmanglin00@gmail.com</a>
 </p>
 
 
