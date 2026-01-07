@@ -25,13 +25,31 @@
 <b>Email:</b> <a href="mailto:tmanglin00@gmail.com">tmanglin00@gmail.com</a>
 </p>
 
-
-
 ---
 
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,cs,cpp,c,py,java,git,nodejs,postgres,mysql,blender,photoshop,illustrator" />
+<h4>Game Engines</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=unreal,unity" />
+</p>
+
+<h4>Programming Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c,py,java" />
+</p>
+
+<h4>Networking & Backend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" />
+</p>
+
+<h4>Art & Content Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator" />
+</p>
+
+<h4>Version Control</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
