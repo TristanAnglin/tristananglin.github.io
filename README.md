@@ -11,8 +11,6 @@
 
 ---
 
-<h3 align="center">Stack</h3>
-
 <p align="center"><b>Engines & Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java" />
