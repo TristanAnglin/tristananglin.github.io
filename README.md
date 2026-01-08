@@ -11,7 +11,9 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/825/825561.png" width="25" style="vertical-align: middle; margin-right: 5px; transform: translateY(-2px);"/> Stack
+</h3>
 
 <p align="center"><b>Engines & Languages</b></p>
 <p align="center">
