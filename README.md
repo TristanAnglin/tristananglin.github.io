@@ -3,7 +3,7 @@
 
 I am a Game Developer focused on building the robust systems that power immersive gameplay. My expertise lies in creating scalable **UI/UX frameworks**, **Inventory Systems**, and the **Data Architecture** required to keep multiplayer games running smoothly.
 
-Currently, I'm developing **Blood & Lineage**, where I've focused on bridging complex backend data (like items, stats, and loot) with intuitive, responsive player interfaces in Unreal Engine. I enjoy the challenge of taking a complex "big system" and making it feel seamless for the player.
+Currently, I'm developing **Blood & Lineage**, where I bridge complex backend data (like items, stats, and loot) with intuitive, responsive player interfaces in Unreal Engine. I enjoy the challenge of taking a complex "big system" and making it feel seamless for the player.
 
 ---
 
@@ -21,7 +21,7 @@ Currently, I'm developing **Blood & Lineage**, where I've focused on bridging co
 
 **Art & UI Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,3dsmax,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,3dsmax" />
 </p>
 
 ---
@@ -49,10 +49,21 @@ Currently, I'm developing **Blood & Lineage**, where I've focused on bridging co
 
 ### 📬 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/Tristan-Anglin"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
-  <a href="https://github.com/TristanMichaelAnglin"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
-  <a href="https://www.youtube.com/@TristanAnglin"><img src="https://skillicons.dev/icons?i=youtube" height="35" /></a>
-  <a href="https://discord.gg/tristan_a"><img src="https://skillicons.dev/icons?i=discord" height="35" /></a>
+  <a href="https://linkedin.com/in/Tristan-Anglin" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://github.com/TristanMichaelAnglin" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@TristanAnglin" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/tristananglin_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/tristan_a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+  </a>
 </p>
 
-**Email:** tmanglin00@gmail.com
+**Email:** [tmanglin00@gmail.com](mailto:tmanglin00@gmail.com)
