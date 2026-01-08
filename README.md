@@ -1,9 +1,5 @@
-# Tristan Anglin
-## Game Systems & UI Developer | Multiplayer Experiences
-
-I am a Game Developer focused on building the robust systems that power immersive gameplay. My expertise lies in creating scalable **UI/UX frameworks**, **Inventory Systems**, and the **Data Architecture** required to keep multiplayer games running smoothly.
-
-Currently, I'm developing **Blood & Lineage**, where I bridge complex backend data (like items, stats, and loot) with intuitive, responsive player interfaces in Unreal Engine. I enjoy the challenge of taking a complex "big system" and making it feel seamless for the player.
+<h1 align="center">Tristan Anglin</h1>
+<p align="center"><b>Game Systems & UI Developer | Multiplayer Experiences</b></p>
 
 ---
 
@@ -16,17 +12,17 @@ Currently, I'm developing **Blood & Lineage**, where I bridge complex backend da
 
 <p align="center"><b>Systems & Architecture</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,git,cmake,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,cmake" />
 </p>
 
 <p align="center"><b>Art & UI Design</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,3dsmax,photoshop,illustrator,au,figma" />
+  <img src="https://skillicons.dev/icons?i=blender,3dsmax,photoshop,illustrator,au" />
 </p>
 
 <p align="center"><b>Development Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,postman,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=eclipse,visualstudio" />
 </p>
 
 ---
