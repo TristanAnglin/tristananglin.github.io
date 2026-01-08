@@ -1,93 +1,58 @@
-### Game developer focused on combat systems & multiplayer experiences
+# Tristan Anglin
+## Game Systems & UI Developer | Multiplayer Experiences
 
-- 🔭 **Currently developing _Blood & Lineage_**, a 1–4 player Greek-themed Musou RPG as my Capstone project  
-- 🌱 **Deepening my knowledge of network synchronization and server–client architecture** for real-time co-op gameplay  
+I am a Game Developer focused on building the robust systems that power immersive gameplay. My expertise lies in creating scalable **UI/UX frameworks**, **Inventory Systems**, and the **Data Architecture** required to keep multiplayer games running smoothly.
+
+Currently, I'm developing **Blood & Lineage**, where I've focused on bridging complex backend data (like items, stats, and loot) with intuitive, responsive player interfaces in Unreal Engine. I enjoy the challenge of taking a complex "big system" and making it feel seamless for the player.
 
 ---
 
-<h3 align="left">Connect with me</h3>
+### 🛠 Tech Stack
+
+**Engines & Languages**
 <p align="left">
-  <a href="https://github.com/TristanMichaelAnglin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/Tristan-Anglin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@TristanAnglin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/tristan_a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/tristananglin_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py" />
 </p>
 
+**Systems & Architecture**
 <p align="left">
-📫 <b>Email:</b> <a href="mailto:tmanglin00@gmail.com">tmanglin00@gmail.com</a>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,git" />
+</p>
+
+**Art & UI Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=blender,3dsmax,photoshop,illustrator" />
 </p>
 
 ---
 
-<h4>Game Engines</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=unreal,unity" />
-</p>
+### 🎮 Featured Project: Blood & Lineage
+**Greek-themed 1–4 player Musou RPG**
 
-<h4>Programming Languages</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,c,py,java" />
-</p>
-
-<h4>Networking & Backend</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" />
-</p>
-
-<h4>Art & Content Tools</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator" height="40" />
-
-  <a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Autodesk_3ds_Max_logo.png"
-      alt="Autodesk 3ds Max"
-      height="40"
-      style="vertical-align: middle; margin-left: 8px;" />
-  </a>
-</p>
-
-<h4>Version Control</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-</p>
-
----
-
-<h2 align="left">🎮 Featured Projects</h2>
-
-<h3>Blood & Lineage</h3>
-<p>
-<b>Greek-themed 1–4 player Musou RPG</b><br>
-Capstone project focused on fast-paced combat, enemy AI, and synchronized co-op gameplay within a mythological setting.
-</p>
+> *A Capstone project where I served as a lead systems developer, focusing on player progression and networked data.*
 
 <div align="center">
-  <iframe
-    width="800"
-    height="450"
-    src="https://www.youtube.com/embed/dsOIqnmBTb4"
-    title="Blood & Lineage Gameplay Demo"
-    frameborder="0"
-    allowfullscreen
-    style="max-width:100%;">
+  <iframe 
+    width="100%" 
+    height="400" 
+    src="https://www.youtube.com/embed/dsOIqnmBTb4" 
+    frameborder="0" 
+    allowfullscreen>
   </iframe>
 </div>
 
-<p>
-🔧 <b>Engine:</b> Unreal Engine<br>
-⚙️ <b>Key Systems:</b> Player combat, enemy encounters, co-op synchronization<br>
-🎯 <b>Focus Areas:</b> Combat feel, responsiveness, multiplayer stability
+* **Inventory & Loot System:** Designed a data-driven inventory system that handles item persistence and networked syncing for 4-player co-op.
+* **UI Framework:** Created a modular HUD and Menu system using UMG (Unreal Motion Graphics) that scales across different screen resolutions and handles real-time data updates.
+* **Networked Systems:** Implemented server-client architecture for non-combat systems, ensuring player stats and item pickups are synchronized and secure.
+
+---
+
+### 📬 Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/Tristan-Anglin"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+  <a href="https://github.com/TristanMichaelAnglin"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
+  <a href="https://www.youtube.com/@TristanAnglin"><img src="https://skillicons.dev/icons?i=youtube" height="35" /></a>
+  <a href="https://discord.gg/tristan_a"><img src="https://skillicons.dev/icons?i=discord" height="35" /></a>
 </p>
 
+**Email:** tmanglin00@gmail.com
