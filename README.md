@@ -62,7 +62,7 @@ Currently, I'm developing **Blood & Lineage**, where I bridge complex backend da
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://discord.gg/tristan_a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=discord" height="35" />
   </a>
 </p>
 
