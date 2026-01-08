@@ -25,7 +25,8 @@
 
 <p align="center"><b>Art & UI Design</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,au" />&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Autodesk_3ds_Max_Icon.svg" height="50" style="vertical-align:middle" />
+  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,au" />
+  <img src="https://images.seeklogo.com/logo-png/48/1/3ds-max-logo-png_seeklogo-482396.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-left: 4px;" />
 </p>
 
 <p align="center"><b>Development Tools</b></p>
