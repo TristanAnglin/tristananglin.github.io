@@ -47,9 +47,17 @@
 
 <h4>Art & Content Tools</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg" alt="3ds Max" height="40" width="40" style="margin-left:10px;" />
+  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator" height="40" />
+
+  <a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg"
+      alt="Autodesk 3ds Max"
+      height="40"
+      style="vertical-align: middle; margin-left: 8px;" />
+  </a>
 </p>
+
 
 
 
