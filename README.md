@@ -18,20 +18,15 @@
   <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java" />
 </p>
 
-<p align="center"><b>Systems & Architecture</b></p>
+<p align="center"><b>Systems, Architecture & Dev Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,cmake" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,cmake,eclipse,git,nodejs,mysql" />
 </p>
 
 <p align="center"><b>Art & UI Design</b></p>
 <p align="center">
-  <img src="3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-left: 2px;" alt="3ds Max" />
+   <img src="3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-left: 2px;" alt="3ds Max" />
   <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,au" />
-</p>
-
-<p align="center"><b>Development Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,visualstudio" />
 </p>
 
 ---
