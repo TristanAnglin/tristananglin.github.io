@@ -51,14 +51,12 @@
 
   <a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank">
     <img
-      src="[https://upload.wikimedia.org/wikipedia/commons/1/1e/Autodesk_3ds_Max_logo.png](https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/lockup-610x66/3ds-max-2023-lockup-610x66.png)"
+      src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Autodesk_3ds_Max_logo.png"
       alt="Autodesk 3ds Max"
-      height="40" />
+      height="40"
+      style="vertical-align: middle; margin-left: 8px;" />
   </a>
 </p>
-
-
-
 
 <h4>Version Control</h4>
 <p>
