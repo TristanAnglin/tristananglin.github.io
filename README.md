@@ -50,7 +50,7 @@
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-  <b>Greek Co-op Musou RPG</b>
+  <b>3D Co-op Musou RPG</b>
   <b>Lead Systems Dev</b>
 </div>
 
@@ -91,7 +91,7 @@
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-  <b>Tile-Based Strategy TD</b>
+  <b>2D Tile-Based Strategy TD</b>
   <b>Solo Dev</b>
 </div>
 
@@ -114,7 +114,7 @@
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-  <b>Tile-Based Fantasy RPG</b>
+  <b>2D Tile-Based Fantasy RPG</b>
   <b>Solo Dev</b>
 </div>
 
@@ -130,7 +130,7 @@
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-  <b>Survival Endless Scroller</b>
+  <b>2D Survival Endless Scroller</b>
   <b>Solo Dev</b>
 </div>
 
