@@ -42,15 +42,9 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #30363d; margin-bottom: 10px;">
-  <h2 style="border-bottom: none; margin: 0;">Blood & Lineage</h2>
-  <span>
-    <img src="https://skillicons.dev/icons?i=unreal,cpp&theme=dark" width="55" align="absbottom" /> 
-    <b>2025-2026</b>
-  </span>
-</div>
-
-**Greek-themed 1–4 player Musou RPG** | **Lead Systems Developer**
+## Blood & Lineage <span style="float:right;"><img src="https://skillicons.dev/icons?i=unreal,cpp&theme=dark" width="55" align="absbottom" /> 2025-2026</span>
+ 
+> **Greek-themed 1–4 player Musou RPG** | **Lead Systems Developer**
 
 > **Project Overview:** A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing **Jira** for agile sprint management and **GitHub** for version control to synchronize workflows across art, design, and programming departments.
 
