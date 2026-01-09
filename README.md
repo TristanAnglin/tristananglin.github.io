@@ -91,7 +91,7 @@
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-  <b>Grid-Based Strategy Tower Defense</b>
+  <b>Tile-Based Strategy TD</b>
   <b>Solo Dev</b>
 </div>
 
@@ -107,7 +107,7 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <span style="font-size: 1.6em; font-weight: bold;">Tile-Based RPG</span>
+  <span style="font-size: 1.6em; font-weight: bold;">Your Dark Side</span>
   <span>
     <img src="https://skillicons.dev/icons?i=java&theme=dark" width="25" align="absbottom" /> 
     <b style="font-size: 1.1em;">2023</b>
@@ -123,7 +123,7 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <span style="font-size: 1.6em; font-weight: bold;">Survival Scroller</span>
+  <span style="font-size: 1.6em; font-weight: bold;">Hit and Run</span>
   <span>
     <img src="https://skillicons.dev/icons?i=py&theme=dark" width="25" align="absbottom" /> 
     <b style="font-size: 1.1em;">2016-2018</b>
