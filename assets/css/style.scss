@@ -2,15 +2,16 @@
 ---
 @import "{{ site.theme }}";
 
-html, body {
+/* 1. Global Page Reset & Text Containers */
+html, body, p, li, span, div {
   background-color: #0d1117 !important;
-  color: #e6edf3 !important; /* Brighter body text */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
+  color: #f0f6fc !important; /* Extremely bright off-white */
 }
 
+/* 2. Main Layout Containers */
 .container-lg, .wrapper, section {
   background-color: #0d1117 !important;
-  color: #e6edf3 !important;
+  color: #f0f6fc !important;
   box-shadow: none !important;
   border: none !important;
   width: 100% !important;
@@ -19,31 +20,39 @@ html, body {
   float: none !important;
 }
 
+/* 3. Headers - Pure White */
 h1, h2, h3, h4, h5, h6, 
 h1 *, h2 *, h3 *, 
 .project-name, .project-tagline {
   color: #ffffff !important;
-  border-bottom-color: #30363d !important; /* Subtle line for h2 headers */
+  border-bottom-color: #30363d !important;
 }
 
-small, p > em, .caption {
-  color: #8b949e !important;
+/* 4. Blockquotes (The Case Study Sections) */
+/* This specifically targets the text inside the blockquotes */
+blockquote, 
+blockquote p, 
+blockquote li {
+  background-color: #161b22 !important;
+  color: #ffffff !important; /* Pure white for maximum contrast */
 }
 
 blockquote {
-  background-color: #161b22 !important;
   border-left: 0.3em solid #30363d !important;
-  color: #f0f6fc !important; /* Brighter white for internal text */
   padding: 15px !important;
   border-radius: 6px;
   margin: 1em 0 !important;
 }
 
-blockquote strong, blockquote b {
+/* 5. Blue Highlights for Labels */
+blockquote strong, 
+blockquote b,
+strong {
   color: #58a6ff !important; 
   font-weight: 600 !important;
 }
 
+/* 6. Interaction & Links */
 a {
   color: #58a6ff !important;
   text-decoration: none;
@@ -54,15 +63,12 @@ a:hover {
   color: #79c0ff !important;
 }
 
+/* 7. Hide Theme Sidebar/Header */
 header {
   display: none !important;
 }
 
-footer {
-  color: #8b949e !important;
-  border-top: 1px solid #30363d !important;
-}
-
+/* 8. Horizontal Rules */
 hr {
   background-color: #30363d !important;
   height: 1px !important;
