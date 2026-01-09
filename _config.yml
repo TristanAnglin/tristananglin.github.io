@@ -1,6 +1,6 @@
 title: " "
-description: ""
-theme: jekyll-theme-minimal # Or whichever theme you are currently using
+description: " "
+theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
-github:
-  is_project_page: false
+show_downloads: false
+github: [metadata]
