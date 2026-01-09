@@ -68,8 +68,6 @@
 
 ### Team Integration & Collaboration
 
-> **Systems Integration:** Acted as the technical bridge between modules, successfully integrating my UI and Networking frameworks with teammate-developed **Procedural Level Generation** and **Minimap** systems.
+> **Version Control & Agile Workflow:** Coordinated with a team of 11 using GitHub for repository management and **Jira** for task tracking, maintaining build stability and ensuring efficient code integration across various sub-teams.
 
-> **Cross-Disciplinary Pipeline:** Coordinated with the art department via **Jira** to oversee the technical implementation of UI assets, ensuring optimal performance and visual fidelity.
-
-> **Ability Framework Support:** Provided technical support for the **Ability & Combat Frameworks**, ensuring local player inputs and ability triggers remained responsive within the networked environment.
+> **Systems Interoperability:** Acted as a technical bridge between modules, ensuring my UI and Networking frameworks integrated successfully with peer-developed systems, such as **Procedural Level Generation**.
