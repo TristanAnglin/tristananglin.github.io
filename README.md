@@ -81,9 +81,19 @@
 
 > **Systems Interoperability:** Acted as a technical bridge between modules, ensuring my UI and Networking frameworks integrated successfully with peer-developed systems, such as **Procedural Level Generation**, to ensure dynamic data was correctly replicated and displayed.
 
-## <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="25" align="absbottom" /> 2024: Tower Defense
+---
 
-**Grid-Based Strategy Tower Defense | Solo Developer**
+<div style="display: flex; justify-content: space-between; align-items: flex-end;">
+  <span style="font-size: 1.6em; font-weight: bold;">Tower Defense</span>
+  <span>
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55" align="absbottom" /> 
+    <b style="font-size: 1.1em;">2024</b>
+  </span>
+</div>
+<div style="display: flex; justify-content: space-between; margin-top: 5px;">
+  <b>Grid-Based Strategy Tower Defense</b>
+  <b>Solo Developer</b>
+</div>
 
 > Project Overview: A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
 
