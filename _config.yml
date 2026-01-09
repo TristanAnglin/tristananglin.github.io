@@ -2,3 +2,5 @@ title: " "
 description: ""
 theme: jekyll-theme-minimal # Or whichever theme you are currently using
 remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: false
+google_analytics: # Leave blank
