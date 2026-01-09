@@ -42,8 +42,9 @@
 
 ---
 
-## 2025-Current: Blood & Lineage
-**Greek-themed 1–4 player Musou RPG** | *Lead Systems Developer*
+## Blood & Lineage <span style="float:right;"><img src="https://skillicons.dev/icons?i=unreal,cpp&theme=dark" width="55" align="absbottom" /> 2025-2026</span>
+
+**Greek-themed 1–4 player Musou RPG | Lead Systems Developer**
 
 > **Project Overview:** A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing **Jira** for agile sprint management and **GitHub** for version control to synchronize workflows across art, design, and programming departments.
 
@@ -56,7 +57,7 @@
   <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
 </div>
 
-### Core Contributions
+**Core Contributions**
 
 > **UI/UX Architecture:** Engineered a modular UI framework using **Unreal UMG**. This included a dynamic HUD and complex data-bound menu systems designed to scale across multiple resolutions and game states.
 
@@ -66,8 +67,21 @@
   
 > **Data-Driven Inventory:** Developed a custom inventory and loot framework from the ground up, prioritizing networked persistence and efficient server-client replication.
 
-### Team Integration & Collaboration
+**Team Integration & Collaboration**
 
 > **Version Control & Agile Workflow:** Coordinated with a team of 11 using GitHub for repository management and **Jira** for task tracking, maintaining build stability and ensuring efficient code integration across various sub-teams.
 
 > **Systems Interoperability:** Acted as a technical bridge between modules, ensuring my UI and Networking frameworks integrated successfully with peer-developed systems, such as **Procedural Level Generation**, to ensure dynamic data was correctly replicated and displayed.
+
+## <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="25" align="absbottom" /> 2024: Tower Defense
+
+**Grid-Based Strategy Tower Defense | Solo Developer**
+
+> Project Overview: A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
+
+**Core Contributions**
+> **Custom OpenGL Engine:** Developed a lightweight 2D rendering engine using C++, implementing shader management, texture mapping, and a camera system to handle dynamic game scaling.
+
+> **Dynamic Pathfinding:** Engineered a tile-based grid system utilizing the A Search Algorithm*, allowing enemies to recalculate paths in real-time as the player places or removes walls and towers.
+
+> **Grid & Placement Logic:** Built a robust snapping and validation system for player-built structures, ensuring towers and obstacles interact correctly with the navigation mesh and enemy hitboxes.
