@@ -25,8 +25,8 @@
 
 <p align="center"><b>Systems, Architecture & Dev Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,eclipse,cmake,nodejs,mysql,git&theme=dark" />
-  <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-left: 4px; margin-right: 4px; transform: translateY(-21px);" alt="Jira" />
+    <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-left: 4px; margin-right: 4px; transform: translateY(-21px);" alt="Jira" />
+  <img src="https://skillicons.dev/icons?i=git,visualstudio,eclipse,cmake,nodejs,mysql&theme=dark" />
 </p>
 
 <p align="center"><b>Art & UI Design</b></p>
