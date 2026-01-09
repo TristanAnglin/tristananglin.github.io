@@ -46,7 +46,7 @@
   <span style="font-size: 1.6em; font-weight: bold;">Blood & Lineage</span>
   <span>
     <img src="https://skillicons.dev/icons?i=unreal,cpp&theme=dark" width="55" align="absbottom" /> 
-    <b style="font-size: 1.1em;">2025-2026</b>
+    <b style="font-size: 1.1em;">2026</b>
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
