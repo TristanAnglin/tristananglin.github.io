@@ -20,19 +20,19 @@
 
 <p align="center"><b>Engines & Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java" />
+  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java&theme=light" />
 </p>
 
 <p align="center"><b>Systems, Architecture & Dev Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,eclipse,cmake,nodejs,mysql,git" />
-    <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-left: 4px; margin-right: 4px; transform: translateY(-21px);" alt="3ds Max" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,eclipse,cmake,nodejs,mysql,git&theme=light" />
+  <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-left: 4px; margin-right: 4px; transform: translateY(-21px);" alt="Jira" />
 </p>
 
 <p align="center"><b>Art & UI Design</b></p>
 <p align="center">
   <img src="assets/Icons/3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-21px);" alt="3ds Max" />
-  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,pr,au" />
+  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,pr,au&theme=light" />
 </p>
 
 ---
