@@ -1,3 +1,4 @@
+<h1 align="center">Tristan Anglin</h1>
 <p align="center"><b>Game Systems & UI Developer | Multiplayer Experiences</b></p>
 
 <p align="center">
