@@ -2,14 +2,12 @@
 ---
 @import "{{ site.theme }}";
 
-/* 1. Global Reset & Main Background */
 html, body, p, li, span, div, em, i {
   background-color: #0d1117 !important;
-  color: #f0f6fc !important; /* Bright off-white */
-  opacity: 1 !important;    /* Force full visibility */
+  color: #f0f6fc !important;
+  opacity: 1 !important;   
 }
 
-/* 2. Containers */
 .container-lg, .wrapper, section {
   background-color: #0d1117 !important;
   color: #f0f6fc !important;
@@ -21,8 +19,6 @@ html, body, p, li, span, div, em, i {
   float: none !important;
 }
 
-/* 3. Headers & Taglines - Force Pure White */
-/* This fixes "Game Systems & UI Developer" */
 h1, h2, h3, h4, h5, h6, 
 h1 *, h2 *, h3 *, 
 .project-name, .project-tagline, .project-tagline strong {
@@ -30,8 +26,6 @@ h1 *, h2 *, h3 *,
   opacity: 1 !important;
 }
 
-/* 4. Blockquotes (Case Study Sections) */
-/* This fixes "UI/UX Architecture" and other bold headers inside boxes */
 blockquote, 
 blockquote p, 
 blockquote li, 
@@ -52,14 +46,15 @@ blockquote {
   margin: 1em 0 !important;
 }
 
-/* 5. Neutral Labels */
+blockquote p:last-child {
+  margin-bottom: 0 !important;
+}
+
 strong, b {
   color: #ffffff !important; 
   font-weight: 700 !important;
 }
 
-/* 6. Interaction & Links */
-/* Kept as a slightly different blue-white to ensure they look clickable */
 a {
   color: #58a6ff !important;
   text-decoration: underline !important;
@@ -69,12 +64,10 @@ a:hover {
   color: #ffffff !important;
 }
 
-/* 7. Hide Theme Sidebar/Header */
 header {
   display: none !important;
 }
 
-/* 8. Horizontal Rules */
 hr {
   background-color: #30363d !important;
   height: 1px !important;
