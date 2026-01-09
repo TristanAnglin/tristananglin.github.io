@@ -86,7 +86,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <span style="font-size: 1.6em; font-weight: bold;">Tower Defense</span>
   <span>
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55" align="absbottom" /> 
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="25" align="absbottom" /> 
     <b style="font-size: 1.1em;">2024</b>
   </span>
 </div>
