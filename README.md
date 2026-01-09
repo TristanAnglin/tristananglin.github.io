@@ -70,4 +70,4 @@
 
 > **Version Control & Agile Workflow:** Coordinated with a team of 11 using GitHub for repository management and **Jira** for task tracking, maintaining build stability and ensuring efficient code integration across various sub-teams.
 
-> **Systems Interoperability:** Acted as a technical bridge between modules, ensuring my UI and Networking frameworks integrated successfully with peer-developed systems, such as **Procedural Level Generation**.
+> **Systems Interoperability:** Acted as a technical bridge between modules, ensuring my UI and Networking frameworks integrated successfully with peer-developed systems, such as **Procedural Level Generation**, to ensure dynamic data was correctly replicated and displayed.
