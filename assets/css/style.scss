@@ -21,24 +21,28 @@ html, body, p, li, span, div, em, i {
   float: none !important;
 }
 
-/* 3. Headers - Pure White */
+/* 3. Headers & Taglines - Force Pure White */
+/* This fixes "Game Systems & UI Developer" */
 h1, h2, h3, h4, h5, h6, 
 h1 *, h2 *, h3 *, 
-.project-name, .project-tagline {
+.project-name, .project-tagline, .project-tagline strong {
   color: #ffffff !important;
   opacity: 1 !important;
 }
 
-/* 4. Blockquotes (Case Study Sections) - Neutral Styling */
+/* 4. Blockquotes (Case Study Sections) */
+/* This fixes "UI/UX Architecture" and other bold headers inside boxes */
 blockquote, 
 blockquote p, 
 blockquote li, 
 blockquote em, 
-blockquote i {
+blockquote i,
+blockquote strong,
+blockquote b {
   background-color: #161b22 !important;
-  color: #ffffff !important; /* Pure white for internal text */
+  color: #ffffff !important; 
   opacity: 1 !important;
-  font-style: normal !important; /* Removes italics if they are making it harder to read */
+  font-style: normal !important;
 }
 
 blockquote {
@@ -48,20 +52,21 @@ blockquote {
   margin: 1em 0 !important;
 }
 
-/* 5. Neutral Labels (Replaces the Blue) */
-blockquote strong, 
-blockquote b,
+/* 5. Neutral Labels */
 strong, b {
   color: #ffffff !important; 
   font-weight: 700 !important;
-  text-decoration: underline !important; 
-  text-decoration-color: #30363d !important; /* Subtle neutral underline instead of color */
 }
 
 /* 6. Interaction & Links */
+/* Kept as a slightly different blue-white to ensure they look clickable */
 a {
-  color: #ffffff !important;
+  color: #58a6ff !important;
   text-decoration: underline !important;
+}
+
+a:hover {
+  color: #ffffff !important;
 }
 
 /* 7. Hide Theme Sidebar/Header */
@@ -72,9 +77,6 @@ header {
 /* 8. Horizontal Rules */
 hr {
   background-color: #30363d !important;
-  height: 1px !important;
-  border: none !important;
-}important;
   height: 1px !important;
   border: none !important;
 }
