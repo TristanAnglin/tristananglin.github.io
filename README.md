@@ -42,7 +42,7 @@
   <span style="font-size: 1.6em; font-weight: bold;">Blood & Lineage</span>
   <span>
     <img src="https://skillicons.dev/icons?i=unreal,cpp&theme=dark" width="55" align="absbottom" /> 
-    <b style="font-size: 1.1em;">2026</b>
+    <b style="font-size: 1.2em;">2026</b>
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
@@ -83,7 +83,7 @@
   <span style="font-size: 1.6em; font-weight: bold;">Tower Defense</span>
   <span>
     <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="25" align="absbottom" /> 
-    <b style="font-size: 1.1em;">2024</b>
+    <b style="font-size: 1.2em;">2024</b>
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
@@ -115,7 +115,7 @@
   <span style="font-size: 1.6em; font-weight: bold;">Your Dark Side</span>
   <span>
     <img src="https://skillicons.dev/icons?i=java&theme=dark" width="25" align="absbottom" /> 
-    <b style="font-size: 1.1em;">2023</b>
+    <b style="font-size: 1.2em;">2023</b>
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
@@ -137,10 +137,10 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <span style="font-size: 1.6em; font-weight: bold;">Hit and Run</span>
+  <span style="font-size: 1.6em; font-weight: bold;">Hit & Run</span>
   <span>
     <img src="https://skillicons.dev/icons?i=py&theme=dark" width="25" align="absbottom" /> 
-    <b style="font-size: 1.1em;">2016</b>
+    <b style="font-size: 1.2em;">2016</b>
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
@@ -148,7 +148,7 @@
   <b>Solo Dev</b>
 </div>
 
-> **Project Overview:** A foundational project developed in Python to explore core game loops, difficulty scaling, and persistent progression systems.
+> **Project Overview:** Hit & Run is a Python-based survival game developed on the iPad, designed to explore the fundamentals of game loops, difficulty scaling, and persistent progression systems. Initially conceived as a scrolling game, the project evolved into a stationary survival challenge where players must fend off waves of homing enemies to achieve the highest possible round.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=FSjgXKFcKIo" target="_blank">
@@ -158,3 +158,8 @@
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
 </div>
+
+**Core Contributions**
+> **Survival Loop Architecture:** Engineered a stationary combat loop where enemies continuously converge on a fixed player position. I implemented a non-targeting swing mechanic that damages all enemies within a frontal arc, with attack frequency dynamically tied to a "Haste" stat and monitored via a real-time cooldown bar.
+
+> **Persistent Progression** Engineered a multi-tiered reward system where kills generate XP, Gold, and Rubies. I developed a comprehensive shop and spell framework that allows players to permanently upgrade base stats such as Health, Damage, Lifesteal, Regen, Dodge, and Haste while managing a rare currency economy to unlock and level up abilities.
