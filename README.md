@@ -162,4 +162,4 @@
 **Core Contributions**
 > **Survival Loop Architecture:** Engineered a stationary combat loop where enemies continuously converge on a fixed player position. I implemented a non-targeting swing mechanic that damages all enemies within a frontal arc, with attack frequency dynamically tied to a "Haste" stat and monitored via a real-time cooldown bar.
 
-> **Persistent Progression** Engineered a multi-tiered reward system where kills generate XP, Gold, and Rubies. I developed a comprehensive shop and spell framework that allows players to permanently upgrade base stats such as Health, Damage, Lifesteal, Regen, Dodge, and Haste while managing a rare currency economy to unlock and level up abilities.
+> **Persistent Progression:** Engineered a multi-tiered reward system where kills generate XP, Gold, and Rubies. I developed a comprehensive shop and spell framework that allows players to permanently upgrade base stats such as Health, Damage, Lifesteal, Regen, Dodge, and Haste while managing a rare currency economy to unlock and level up abilities.
