@@ -15,15 +15,6 @@
 
 </div>
 
----
-
-<div align="center">
-<p style="font-size: 1.2em; margin-top: 5px;">
-  <strong>About me</strong>
-</p>
-
-</div>
-
 > Games have always been the foundation of my life. I grew up in a "game family" where we spent our time either at the table or behind a screen, we currently own over 300 board games, one of which I designed and built myself.
 
 > My development journey began in high school, where I built my first games in Python on the iPad. After a period studying Computer Science and Engineering (2018–2020)—where I taught myself Java to create Your Dark Side—I realized my true calling was in the creative and technical architecture of game design rather than traditional engineering.
