@@ -16,7 +16,7 @@
   <a href="https://www.youtube.com/@TristanAnglin" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-CD201F?style=for-the-badge&logo=youtube&logoColor=white" height="30" /></a>
 </p>
 
-> Games have always been a strong foundation in my life. I grew up in a "game family" where we spent our time at the games table; we currently own over 300 board games, one of which I designed and built myself.
+> Games have always been a strong foundation in my life. Growing up in a “game family” I was raised at the games table, surrounded by a collection that has grown to over 300 board games. This environment didn't just make me a player; it sparked my curiosity for mechanics and balance, eventually leading me to design and build a complete board game of my own.
 
 > My development journey began in high school, where I built my first games in Python on the iPad. After a period studying Computer Science and Engineering (2018–2020)—where I taught myself Java to create Your Dark Side—I realized my true calling was in the creative and technical architecture of game design rather than traditional engineering.
 
