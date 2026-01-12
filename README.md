@@ -63,7 +63,7 @@
          alt="Blood & Lineage Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
-  <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
+  <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
 
 **Core Contributions**
@@ -104,7 +104,7 @@
          alt="Blood & Lineage Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
-  <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
+  <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
 
 **Core Contributions**
@@ -136,7 +136,7 @@
          alt="Blood & Lineage Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
-  <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
+  <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
 
 ---
@@ -161,7 +161,7 @@
          alt="Dungeon Crawler Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
-  <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
+  <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
 
 **Core Contributions**
@@ -195,7 +195,7 @@
          alt="Hit & Run Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
-  <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
+  <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
 
 **Core Contributions**
