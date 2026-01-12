@@ -1,6 +1,6 @@
 <div align="center">
 <h1 style="font-size: 3em; margin-bottom: 0px;">Tristan Anglin</h1>
-<p style="font-size: 1.2em; margin-top: 5px;">
+<p style="font-size: 1.2em; margin-top: 15px;">
   <strong>Game Developer | UI/UX & Systems</strong>
 </p>
 </div>
@@ -19,8 +19,6 @@
 > My development journey began in high school, where I built my first games in Python on the iPad. After a period studying Computer Science and Engineering (2018–2020)—where I taught myself Java to create Your Dark Side—I realized my true calling was in the creative and technical architecture of game design rather than traditional engineering.
 
 > In 2023, I finally shifted my focus entirely to Game Development. Immersing myself in this field has been an incredible experience; I’ve found a deep passion for the work, which has driven me to maintain a 3.85 cumulative GPA while building a portfolio centered on engaging gameplay loops and persistent progression systems.
-
----
 
 <p align="center"><b>Engines & Programming</b></p>
 <p align="center">
