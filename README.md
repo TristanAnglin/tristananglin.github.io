@@ -6,14 +6,14 @@
 </div>
 
 <p align="center">
-  <a href="https://tristan-anglin.github.io/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-28a745?style=for-the-badge&logo=googledocs&logoColor=white" height="30" /></a>&nbsp;
-  <a href="https://linkedin.com/in/Tristan-Anglin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>&nbsp;
-  <a href="mailto:tmanglin00@gmail.com"><img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+  <a href="https://tristan-anglin.github.io/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-28a745?style=for-the-badge&logo=googledocs&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://linkedin.com/in/Tristan-Anglin" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://github.com/Tristan-Anglin" target="_blank"><img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
   <br />
-  <a href="https://discord.gg/tristan_a" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" /></a>&nbsp;
-  <a href="https://www.instagram.com/tristananglin_" target="_blank"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" height="30" /></a>&nbsp;
-  <a href="https://www.youtube.com/@TristanAnglin" target="_blank"><img src="https://img.shields.io/badge/YouTube-CD201F?style=for-the-badge&logo=youtube&logoColor=white" height="30" /></a>&nbsp;
-  <a href="https://github.com/Tristan-Anglin" target="_blank"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
+  <a href="mailto:tmanglin00@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4285F4?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://discord.gg/tristan_a" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://www.instagram.com/tristananglin_" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://www.youtube.com/@TristanAnglin" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-CD201F?style=for-the-badge&logo=youtube&logoColor=white" height="30" /></a>
 </p>
 
 > Games have always been a strong foundation of my life. I grew up in a "game family" where we spent our time either at the table or behind a screen, we currently own over 300 board games, one of which I designed and built myself.
