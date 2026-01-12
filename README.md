@@ -1,3 +1,10 @@
+<div align="center">
+<h1 style="font-size: 3em; margin-bottom: 0px;">Tristan Anglin</h1>
+<p style="font-size: 1.2em; margin-top: 5px;">
+  <strong>Game Developer | UI/UX & Systems</strong>
+</p>
+</div>
+
 <p align="center">
   <a href="https://github.com/Tristan-Anglin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>&nbsp;
   <a href="https://linkedin.com/in/Tristan-Anglin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>&nbsp;
@@ -6,14 +13,6 @@
   <a href="https://www.youtube.com/@TristanAnglin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" /></a>&nbsp;
   <a href="mailto:tmanglin00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
 </p>
-
-<div align="center">
-<h1 style="font-size: 3em; margin-bottom: 0px;">Tristan Anglin</h1>
-<p style="font-size: 1.2em; margin-top: 5px;">
-  <strong>Game Developer | UI/UX & Systems</strong>
-</p>
-
-</div>
 
 > Games have always been the foundation of my life. I grew up in a "game family" where we spent our time either at the table or behind a screen, we currently own over 300 board games, one of which I designed and built myself.
 
