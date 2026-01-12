@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://tristan-anglin.github.io/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-28a745?style=for-the-badge&logo=googledocs&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://tristan-anglin.github.io/Resume 2026.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-28a745?style=for-the-badge&logo=googledocs&logoColor=white" height="30" /></a>&nbsp;
   <a href="https://linkedin.com/in/Tristan-Anglin" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>&nbsp;
   <a href="https://github.com/Tristan-Anglin" target="_blank"><img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
   <br />
@@ -16,11 +16,11 @@
   <a href="https://www.youtube.com/@TristanAnglin" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-CD201F?style=for-the-badge&logo=youtube&logoColor=white" height="30" /></a>
 </p>
 
-> Games have always been a strong foundation of my life. I grew up in a "game family" where we spent our time either at the table or behind a screen, we currently own over 300 board games, one of which I designed and built myself.
+> Games have always been a strong foundation in my life. I grew up in a "game family" where we spent our time at the games table; we currently own over 300 board games, one of which I designed and built myself.
 
 > My development journey began in high school, where I built my first games in Python on the iPad. After a period studying Computer Science and Engineering (2018–2020)—where I taught myself Java to create Your Dark Side—I realized my true calling was in the creative and technical architecture of game design rather than traditional engineering.
 
-> In 2023, I finally shifted my focus entirely to Game Development. Immersing myself in this field has been an incredible experience; I’ve found a deep passion for the work, which has driven me to maintain a 3.85 cumulative GPA while building a portfolio centered on engaging gameplay loops and persistent progression systems.
+> In 2023, I shifted my focus entirely to Game Development. Immersing myself in this field has been an incredible experience. This passion has fueled me to maintain a 3.85 cumulative GPA while building a portfolio centered on engaging gameplay loops and persistent progression systems.
 
 <p align="center"><b>Engines & Programming</b></p>
 <p align="center">
