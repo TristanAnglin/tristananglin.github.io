@@ -72,7 +72,7 @@
   <b>3D Co-op Musou RPG</b>
   <b>Lead UI & Systems Developer</b>
 </div>
-<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px; margin-top: 10px;">
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 4px; margin-top: 4px;">
 A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing <b>Jira</b> for agile sprint management and <b>GitHub</b> for version control to synchronize workflows across art, design, and programming departments.
 </div>
 <div align="center" style="margin: 25px 0;">
