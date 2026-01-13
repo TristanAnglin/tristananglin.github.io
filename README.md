@@ -65,7 +65,7 @@
 <a name="blood-lineage"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <img src="https://img.shields.io/badge/Blood%20%26%20Lineage-a5472d?style=flat-square&logo=unrealengine&logoColor=white" height="35"/>
-  <b style="font-size: 1.2em;">2026</b>
+  <b style="font-size: 1.5em;">2026</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>3D Co-op Musou RPG</b>
@@ -106,7 +106,7 @@
 <a name="tower-defense"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <img src="https://img.shields.io/badge/Tower%20Defense-a5472d?style=flat-square&logo=cplusplus&logoColor=white" height="35"/>
-  <b style="font-size: 1.2em;">2024</b>
+  <b style="font-size: 1.5em;">2024</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Tile-Based Strategy TD</b>
@@ -138,7 +138,7 @@
 <a name="darkside"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <img src="https://img.shields.io/badge/Your%20Dark%20Side-a5472d?style=flat-square&logo=openjdk&logoColor=white" height="35"/>
-  <b style="font-size: 1.2em;">2023</b>
+  <b style="font-size: 1.5em;">2023</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Tile-Based Fantasy RPG</b>
@@ -174,7 +174,7 @@
 <a name="dungeon"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <img src="https://img.shields.io/badge/Dungeon%20Crawler-a5472d?style=flat-square&logo=python&logoColor=white" height="35"/>
-  <b style="font-size: 1.2em;">2017</b>
+  <b style="font-size: 1.5em;">2017</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Dungeon Crawler RPG</b>
@@ -208,7 +208,7 @@
 <a name="hit-run"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <img src="https://img.shields.io/badge/Hit%20%26%20Run-a5472d?style=flat-square&logo=python&logoColor=white" height="35"/>
-  <b style="font-size: 1.2em;">2016</b>
+  <b style="font-size: 1.5em;">2016</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Survival Endless Scroller</b>
