@@ -69,7 +69,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>3D Co-op Musou RPG</b>
-  <b>Lead Systems Dev</b>
+  <b>Lead Systems Developer</b>
 </div>
 
 > **Project Overview:** A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing **Jira** for agile sprint management and **GitHub** for version control to synchronize workflows across art, design, and programming departments.
@@ -110,7 +110,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Tile-Based Strategy TD</b>
-  <b>Solo Dev</b>
+  <b>Solo Developer</b>
 </div>
 
 > **Project Overview:** A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
@@ -142,7 +142,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Tile-Based Fantasy RPG</b>
-  <b>Solo Dev</b>
+  <b>Solo Developer</b>
 </div>
 
 > **Project Overview:** Built entirely from the ground up in Java, Your Dark Side represents my final major project before transitioning into formal game development studies. Driven by pure passion and self-teaching, it served as a technical playground for implementing the core pillars of the RPG genre—including complex state management, A* pathfinding, and integrated merchant economies—before I had even begun learning these industry concepts in a classroom setting.
@@ -178,7 +178,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Dungeon Crawler RPG</b>
-  <b>Solo Dev</b>
+  <b>Solo Developer</b>
 </div>
 
 > **Project Overview:** This project represents my first deep dive into the RPG genre and complex system architecture. Developed entirely on an iPad, this was an ambitious leap from my previous work, driven by a passion for dungeon crawlers. While the game remains an unfinished prototype, it was the first time I wrestled with—and successfully implemented—interlocking systems like inventory management, class-based stats, and enemy AI. It stands as a proud milestone where my passion for the genre pushed me to teach myself more advanced programming logic.
@@ -212,7 +212,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Survival Endless Scroller</b>
-  <b>Solo Dev</b>
+  <b>Solo Developer</b>
 </div>
 
 > **Project Overview:** As my first step into game development, Hit & Run was built in Python on the iPad to explore the core architecture of a functional game. What began as a simple scrolling concept evolved into a sophisticated wave-based survival challenge. This project served as my primary classroom for learning game loops, difficulty scaling, and persistent progression systems—foundational concepts that have informed every project I’ve built since.
