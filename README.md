@@ -1,3 +1,4 @@
+<a name="top"></a>
 <div align="center">
 <h1 style="font-size: 3em; margin-bottom: 0px;">Tristan Anglin</h1>
 <p style="font-size: 1.2em; margin-top: 15px;">
@@ -16,12 +17,27 @@
   <a href="https://www.youtube.com/@TristanAnglin" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-CD201F?style=for-the-badge&logo=youtube&logoColor=white" height="30" /></a>
 </p>
 
+<p align="center">
+  <b><a href="#about">ABOUT ME</a></b> • <b><a href="#skills">TECHNICAL SKILLS</a></b> • <b><a href="#projects">FEATURED PROJECTS</a></b>
+  <br>
+  <i>Jump to Project:</i>
+  <a href="#blood-lineage">Blood & Lineage</a> | 
+  <a href="#tower-defense">Tower Defense</a> | 
+  <a href="#darkside">Your Dark Side</a> | 
+  <a href="#dungeon">Dungeon Crawler</a> | 
+  <a href="#hit-run">Hit & Run</a>
+</p>
+
+---
+
+<a name="about"></a>
 > Games are my foundation. I grew up in a "game family" with a collection of over 300 board games—an environment that gave me a deep, intuitive understanding of mechanics and balance long before I wrote my first line of code.
 
 > That journey began in high school, where I built my first games in Python on an iPad. I eventually taught myself Java to develop Your Dark Side while studying Computer Science and Engineering, but I soon realized my true calling wasn't just in general engineering—it was in the technical architecture and creative heart of game design.
 
 > Since shifting my focus entirely to Game Development in 2023, I’ve maintained a 3.85 GPA and dedicated myself to building a portfolio centered on engaging gameplay loops and persistent progression systems.
 
+<a name="skills"></a>
 <p align="center"><b>Engines & Programming</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java&theme=dark" />
@@ -41,8 +57,12 @@
   <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,pr,au&theme=dark" />
 </p>
 
+<a name="projects"></a>
+<h2 align="center">🚀 Featured Projects</h2>
+
 ---
 
+<a name="blood-lineage"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <span style="font-size: 1.6em; font-weight: bold;">Blood & Lineage</span>
   <span>
@@ -82,8 +102,11 @@
 
 > **Systems Interoperability:** Acted as a technical bridge between modules, ensuring my UI and Networking frameworks integrated successfully with peer-developed systems, such as **Procedural Level Generation**, to ensure dynamic data was correctly replicated and displayed.
 
+<p align="right"><a href="#top">↑ Back to Top</a></p>
+
 ---
 
+<a name="tower-defense"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <span style="font-size: 1.6em; font-weight: bold;">Tower Defense</span>
   <span>
@@ -110,12 +133,15 @@
 **Core Contributions**
 > **Custom OpenGL Engine:** Developed a lightweight 2D rendering engine using C++, implementing shader management, texture mapping, and a camera system to handle dynamic game scaling.
 
-> **Dynamic Pathfinding:** Engineered a tile-based grid system utilizing the A Search Algorithm*, allowing enemies to recalculate paths in real-time as the player places or removes walls and towers.
+> **Dynamic Pathfinding:** Engineered a tile-based grid system utilizing the A* Search Algorithm, allowing enemies to recalculate paths in real-time as the player places or removes walls and towers.
 
 > **Grid & Placement Logic:** Built a robust snapping and validation system for player-built structures, ensuring towers and obstacles interact correctly with the navigation mesh and enemy hitboxes.
 
+<p align="right"><a href="#top">↑ Back to Top</a></p>
+
 ---
 
+<a name="darkside"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <span style="font-size: 1.6em; font-weight: bold;">Your Dark Side</span>
   <span>
@@ -150,8 +176,11 @@
 
 > **Interactive Minimap:** Developed a functional minimap system featuring real-time player and enemy tracking and dynamic zoom-in/out capabilities for enhanced world navigation.
 
+<p align="right"><a href="#top">↑ Back to Top</a></p>
+
 ---
 
+<a name="dungeon"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <span style="font-size: 1.6em; font-weight: bold;">Dungeon Crawler</span>
   <span>
@@ -184,8 +213,11 @@
 
 > **UI/UX Prototyping:** Built a multi-scene menu flow, including a dungeon selection interface and a functional inventory management screen. 
 
+<p align="right"><a href="#top">↑ Back to Top</a></p>
+
 ---
 
+<a name="hit-run"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <span style="font-size: 1.6em; font-weight: bold;">Hit & Run</span>
   <span>
@@ -215,3 +247,5 @@
 > **Combat Mechanics:** Implemented a non-targeting swing mechanic that damages all enemies within a frontal arc. Integrated a real-time cooldown system where attack frequency is dynamically tied to a "Haste" stat.
 
 > **Persistent Progression:** Engineered a multi-tiered reward system where kills generate XP, Gold, and Rubies. I developed a comprehensive shop and spell framework that allows players to permanently upgrade base stats such as Health, Damage, Lifesteal, Regen, Dodge, and Haste while managing rare currency to unlock and level up abilities.
+
+<p align="right"><a href="#top">↑ Back to Top</a></p>
