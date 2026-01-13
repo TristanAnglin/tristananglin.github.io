@@ -1,7 +1,7 @@
 <div align="center">
 <h1 style="font-size: 3em; margin-bottom: 0px;">Tristan Anglin</h1>
 <p style="font-size: 1.2em; margin-top: 15px;">
-  <strong>Game Developer | UI/UX & Systems</strong>
+  <strong>Game Developer | Systems Architect & UI Designer</strong>
 </p>
 </div>
 
