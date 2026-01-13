@@ -148,6 +148,8 @@
 
 > **Spell Framework:** Designed an extensible spell and ability system architecture, allowing for easy integration of new combat mechanics and visual effects.
 
+> **Interactive Minimap:** Developed a functional minimap system featuring real-time player and enemy tracking and dynamic zoom-in/out capabilities for enhanced world navigation.
+
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
