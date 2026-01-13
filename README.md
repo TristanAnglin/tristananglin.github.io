@@ -35,24 +35,34 @@ Since shifting my focus entirely to Game Development in 2023, I’ve maintained 
 <a name="skills"></a>
 <p align="center"><b>Engines & Programming</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java&theme=dark" alt="Unreal Engine, Unity, C++, C#, Python, and Java" />
+  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java&theme=dark" 
+       alt="Unreal Engine, Unity, C++, C#, Python, Java" 
+       title="Unreal Engine, Unity, C++, C#, Python, Java" />
 </p>
 
 <p align="center"><b>Workflow & Version Control</b></p>
 <p align="center">
-  <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-20px);" alt="Jira" />
-  <img src="https://skillicons.dev/icons?i=git,mysql,nodejs,cmake&theme=dark" alt="Git, MySQL, Node.js, and CMake" />
+  <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-20px);" 
+       alt="Jira" title="Jira" />
+  <img src="https://skillicons.dev/icons?i=git,mysql,nodejs,cmake&theme=dark" 
+       alt="Git, MySQL, Node.js, CMake" 
+       title="Git, MySQL, Node.js, CMake" />
 </p>
 
 <p align="center"><b>Development Environments</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse&theme=dark" alt="Visual Studio, VS Code, and Eclipse" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse&theme=dark" 
+       alt="Visual Studio, VS Code, Eclipse" 
+       title="Visual Studio, VS Code, Eclipse" />
 </p>
 
 <p align="center"><b>Art, Audio & UI Design</b></p>
 <p align="center">
-  <img src="assets/Icons/3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-20px);" alt="3ds Max" />
-  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,pr,au&theme=dark" alt="Blender, Adobe Photoshop, Illustrator, Premiere Pro, and Audition" />
+  <img src="assets/Icons/3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-20px);" 
+       alt="3ds Max" title="3ds Max" />
+  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,pr,au&theme=dark" 
+       alt="Blender, Photoshop, Illustrator, Premiere Pro, Audition" 
+       title="Blender, Photoshop, Illustrator, Premiere Pro, Audition" />
 </p>
 <a name="projects"></a>
 
