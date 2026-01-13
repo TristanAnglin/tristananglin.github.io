@@ -156,8 +156,8 @@
 > **Project Overview:** This project represents my first deep dive into the RPG genre and complex system architecture. Developed entirely on an iPad, this was an ambitious leap from my previous work, driven by a passion for dungeon crawlers. While the game remains an unfinished prototype, it was the first time I wrestled with—and successfully implemented—interlocking systems like inventory management, class-based stats, and enemy AI. It stands as a proud milestone where my passion for the genre pushed me to teach myself more advanced programming logic.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=2LAZiOGeDzQ" target="_blank">
-    <img src="https://img.youtube.com/vi/2LAZiOGeDzQ/maxresdefault.jpg" 
+  <a href="https://www.youtube.com/watch?v=HNQjJI9nPDQ" target="_blank">
+    <img src="https://img.youtube.com/vi/HNQjJI9nPDQ/maxresdefault.jpg" 
          alt="Dungeon Crawler Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
