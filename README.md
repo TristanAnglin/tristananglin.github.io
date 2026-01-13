@@ -50,23 +50,21 @@
 
 ---
 
-<p align="center"; style="font-size: 1.2em; margin-top: 15px;">
+<p align="center" style="font-size: 1.2em; margin-top: 15px;">
   <strong>Featured Projects</strong>
-</p>
-
-<p align="center">
-  <a href="#blood-lineage"><img src="https://img.shields.io/badge/Blood%20%26%20Lineage-333333?style=flat-square&logo=unrealengine&logoColor=white" height="35"/></a>
-  <a href="#tower-defense"><img src="https://img.shields.io/badge/Tower%20Defense-333333?style=flat-square&logo=cplusplus&logoColor=white" height="35"/></a>
-  <a href="#darkside"><img src="https://img.shields.io/badge/Your%20Dark%20Side-333333?style=flat-square&logo=java&logoColor=white" height="35"/></a>
-  <a href="#dungeon"><img src="https://img.shields.io/badge/Dungeon%20Crawler-333333?style=flat-square&logo=python&logoColor=white" height="35"/></a>
-  <a href="#hit-run"><img src="https://img.shields.io/badge/Hit%20%26%20Run-333333?style=flat-square&logo=python&logoColor=white" height="35"/></a>
+  <br />
+  <a href="#blood-lineage"><img src="https://img.shields.io/badge/Blood%20%26%20Lineage-a5472d?style=flat-square&logo=unrealengine&logoColor=white" height="35"/></a>
+  <a href="#tower-defense"><img src="https://img.shields.io/badge/Tower%20Defense-a5472d?style=flat-square&logo=cplusplus&logoColor=white" height="35"/></a>
+  <a href="#darkside"><img src="https://img.shields.io/badge/Your%20Dark%20Side-a5472d?style=flat-square&logo=openjdk&logoColor=white" height="35"/></a>
+  <a href="#dungeon"><img src="https://img.shields.io/badge/Dungeon%20Crawler-a5472d?style=flat-square&logo=python&logoColor=white" height="35"/></a>
+  <a href="#hit-run"><img src="https://img.shields.io/badge/Hit%20%26%20Run-a5472d?style=flat-square&logo=python&logoColor=white" height="35"/></a>
 </p>
 
 ---
 
 <a name="blood-lineage"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Blood%20%26%20Lineage-333333?style=flat-square&logo=unrealengine&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Blood%20%26%20Lineage-a5472d?style=flat-square&logo=unrealengine&logoColor=white" height="35"/>
   <b style="font-size: 1.2em;">2026</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
@@ -107,7 +105,7 @@
 
 <a name="tower-defense"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Tower%20Defense-333333?style=flat-square&logo=cplusplus&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Tower%20Defense-a5472d?style=flat-square&logo=cplusplus&logoColor=white" height="35"/>
   <b style="font-size: 1.2em;">2024</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
@@ -139,7 +137,7 @@
 
 <a name="darkside"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Your%20Dark%20Side-333333?style=flat-square&logo=java&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Your%20Dark%20Side-a5472d?style=flat-square&logo=java&logoColor=white" height="35"/>
   <b style="font-size: 1.2em;">2023</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
@@ -175,7 +173,7 @@
 
 <a name="dungeon"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Dungeon%20Crawler-333333?style=flat-square&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Dungeon%20Crawler-a5472d?style=flat-square&logo=python&logoColor=white" height="35"/>
   <b style="font-size: 1.2em;">2017</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
@@ -209,7 +207,7 @@
 
 <a name="hit-run"></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Hit%20%26%20Run-333333?style=flat-square&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Hit%20%26%20Run-a5472d?style=flat-square&logo=python&logoColor=white" height="35"/>
   <b style="font-size: 1.2em;">2016</b>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
