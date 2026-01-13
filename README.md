@@ -74,14 +74,10 @@
   <b>Lead UI & Systems Developer</b>
 </div>
 
-<p align="left" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Unreal%20Engine%205-%230E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blueprints-%230E1128?style=flat-square&logo=unrealengine&logoColor=317873" />
-  <img src="https://img.shields.io/badge/Jira-%230052CC?style=flat-square&logo=jira&logoColor=white" />
-</p>
-
-> **Project Overview:** A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing **Jira** for agile sprint management and **GitHub** for version control to synchronize workflows across art, design, and programming departments.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Project Overview</b><br/>
+A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing **Jira** for agile sprint management and **GitHub** for version control to synchronize workflows across art, design, and programming departments.
+</div>
 
 <div align="center" style="margin: 25px 0;">
   <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
@@ -92,33 +88,39 @@
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
 
-### 🛠️ Core Contributions
+### Core Contributions
 
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
-  <b>🖥️ UI/UX Architecture</b><br/>
+  <b>UI/UX Architecture</b><br/>
   Engineered a modular UI framework using <b>Unreal UMG</b>. This included a dynamic HUD and complex data-bound menu systems designed to scale across multiple resolutions and game states.
 </div>
 
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
-  <b>🌐 Networked Systems</b><br/>
+  <b>Networked Systems</b><br/>
   Implemented server-authoritative <b>RPCs</b> for critical non-combat interactions, ensuring secure data handling and synchronized game states across all clients.
 </div>
 
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
-  <b>🤝 Lobby & Session Management</b><br/>
+  <b>Lobby & Session Management</b><br/>
   Architected the backend networking logic for a seamless 4-player co-op experience, handling session hosting, searching, and player handshakes.
 </div>
 
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
-  <b>📦 Data-Driven Inventory</b><br/>
+  <b>Data-Driven Inventory</b><br/>
   Developed a custom inventory and loot framework from the ground up, prioritizing networked persistence and efficient server-client replication.
 </div>
 
-### 👥 Team Integration & Collaboration
+### Team Integration & Collaboration
 
-> **Version Control & Agile Workflow:** Coordinated with a team of 11 using GitHub for repository management and **Jira** for task tracking, maintaining build stability and ensuring efficient code integration.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Version Control & Agile Workflow</b><br/>
+  Coordinated with a team of 11 using GitHub for repository management and **Jira** for task tracking, maintaining build stability and ensuring efficient code integration.
+</div>
 
-> **Systems Interoperability:** Acted as a technical bridge, ensuring UI and Networking frameworks integrated successfully with systems like **Procedural Level Generation**.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Systems Interoperability</b><br/>
+  Acted as a technical bridge, ensuring UI and Networking frameworks integrated successfully with systems like **Procedural Level Generation**.
+</div>
 
 <p align="right"><a href="#top">↑ Back to Top</a></p>
 <br/>
@@ -131,30 +133,46 @@
   <img src="https://img.shields.io/badge/Tower%20Defense-a5472d?style=for-the-badge&logo=cplusplus&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/2024-333333?style=for-the-badge" height="35"/>
 </div>
-<div style="display: flex; justify-content: space-between; margin-top: 5px;">
+
+<div style="display: flex; justify-content: space-between; margin-top: 8px;">
   <b>2D Tile-Based Strategy TD</b>
   <b>Solo Developer</b>
 </div>
 
-> **Project Overview:** A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Project Overview</b><br/>
+  A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
+</div>
 
-<div align="center">
+<div align="center" style="margin: 25px 0;">
   <a href="https://www.youtube.com/watch?v=LynIVupNO2c" target="_blank">
     <img src="https://img.youtube.com/vi/LynIVupNO2c/maxresdefault.jpg" 
-         alt="Blood & Lineage Gameplay" 
-         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+         alt="Tower Defense Gameplay" 
+         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
 
-**Core Contributions**
-> **Custom OpenGL Engine:** Developed a lightweight 2D rendering engine using C++, implementing shader management, texture mapping, and a camera system to handle dynamic game scaling.
+### Core Contributions
 
-> **Dynamic Pathfinding:** Engineered a tile-based grid system utilizing the A* Search Algorithm, allowing enemies to recalculate paths in real-time as the player places or removes walls and towers.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Custom OpenGL Engine</b><br/>
+  Developed a lightweight 2D rendering engine using C++, implementing shader management, texture mapping, and a camera system to handle dynamic game scaling.
+</div>
 
-> **Grid & Placement Logic:** Built a robust snapping and validation system for player-built structures, ensuring towers and obstacles interact correctly with the navigation mesh and enemy hitboxes.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Dynamic Pathfinding</b><br/>
+  Engineered a tile-based grid system utilizing the A* Search Algorithm, allowing enemies to recalculate paths in real-time as the player places or removes walls and towers.
+</div>
+
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Grid & Placement Logic</b><br/>
+  Built a robust snapping and validation system for player-built structures, ensuring towers and obstacles interact correctly with the navigation mesh and enemy hitboxes.
+</div>
 
 <p align="right"><a href="#top">↑ Back to Top</a></p>
+<br/>
+<hr style="border: 0.5px solid #333;" />
 
 ---
 
