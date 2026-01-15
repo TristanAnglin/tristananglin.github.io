@@ -21,11 +21,11 @@
 
 <a name="about"></a>
 <div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
-Games are my foundation. I grew up in a "game family" with a collection of over 300 board games—an environment that gave me a deep, intuitive understanding of mechanics and balance long before I wrote my first line of code.
+Growing up in a game family with a collection of over 300 board games gave me a deep and intuitive understanding of mechanics and balance long before I wrote my first line of code.
 </div>
 
 <div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
-That journey began in high school, where I built my first games in Python on an iPad. I eventually taught myself Java to develop Your Dark Side while studying Computer Science and Engineering, but I soon realized my true calling wasn't just in general engineering—it was in the technical architecture and creative heart of game design.
+My programming journey began in high school 2016, where I built my first games in Python on an iPad. I eventually taught myself Java to develop **"Your Dark Side"** while studying Computer Science and Engineering, but I soon realized my true calling wasn't just in general engineering; it was in the technical architecture and creative heart of game design.
 </div>
 
 <div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
