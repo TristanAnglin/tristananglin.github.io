@@ -150,6 +150,7 @@ A technical exercise in engine-level programming, built from the ground up using
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
+
 ### Core Contributions
 <div style="background: #161b22; padding: 10px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Custom OpenGL Engine</b><br/>
@@ -157,7 +158,11 @@ A technical exercise in engine-level programming, built from the ground up using
 </div>
 <div style="background: #161b22; padding: 10px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Dynamic Pathfinding</b><br/>
-  Engineered a tile-based grid system utilizing the A* Search Algorithm, allowing enemies to recalculate paths in real-time as the player places or removes walls and towers.
+  Engineered a tile-based grid system utilizing the A* Search Algorithm, allowing enemies to recalculate paths in real-time as the player places walls ensuring there is always one available path to travel.
+</div>
+<div style="background: #161b22; padding: 10px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Interactive UI & Progression</b><br/>
+  Implemented a hover-detection system for real-time tower range visualization. Developed a kill-based experience system where towers evolve triggering visual upgrades, stat boosts, and expanded range upon reaching kill milestones.
 </div>
 <div style="background: #161b22; padding: 10px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Grid & Placement Logic</b><br/>
